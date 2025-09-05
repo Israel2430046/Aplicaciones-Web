@@ -1,2 +1,2 @@
 # Aplicaciones-Web
-Repositorio de tabajos de la matria Aplicaciones Web sep-dic 2025
+Repositorio de trabajos de la matria Aplicaciones Web sep-dic 2025
